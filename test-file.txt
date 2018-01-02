@@ -1,2 +1,2 @@
 test github repo
-another comment in text file. hopefully, this will show up in diff.
+Another comment in text file. Hopefully, this will show up in diff.
