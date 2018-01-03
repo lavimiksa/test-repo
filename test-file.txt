@@ -2,3 +2,5 @@ test github repo
 Another comment in text file. Hopefully, this will show up in diff.
 
 This comment will be saved in another branch called 'edit-textfile'. After this change will be commited to the branch, we'll use the merge feature, from the commandline, to merge this comment into master (branch).
+
+This comment will eventually make into master via branch 'textfile', which has been create using command line. And yes, it is visible on the website.
