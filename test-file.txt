@@ -5,3 +5,5 @@ This comment will be saved in another branch called 'edit-textfile'. After this 
 
 This comment will eventually make into master via branch 'textfile', which has been create using command line. And yes, it is visible on the website.
 
+This is a comment in Mac.
+
